@@ -29,7 +29,7 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 
 ---
 
-## 🚀 Flagship Portfolio Repositories
+## 🏛️ Flagship Enterprise & Energy Platforms
 
 <table>
   <tr>
@@ -96,6 +96,66 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 
 ---
 
+## 🔬 Creative Labs, Algorithms & Edge Computing
+
+Demonstrating algorithmic versatility, multi-agent AI systems, high-frequency quantitative computing, and computer vision:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/celestial-gravity-sandbox">celestial-gravity-sandbox</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Physics-Symplectic%20Verlet-0284c7" alt="Physics"/>
+        <img src="https://img.shields.io/badge/Three.js-WebGL%203D-black?logo=three.js" alt="Three.js"/>
+        <img src="https://img.shields.io/badge/WebAudio-Harmonic%20Synth-9333ea" alt="WebAudio"/>
+      </p>
+      <p>Interactive 3D N-Body gravitational simulator and celestial acoustics engine. Employs a Symplectic Velocity Verlet integrator for energy-conserving orbital trajectories, slingshot insertion mechanics, and procedural harmonic synthesizer generating resonant soundscapes upon planetary collisions.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/multi-agent-debate-arena">multi-agent-debate-arena</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Multi--Agent%20Consensus-f59e0b" alt="Multi-Agent"/>
+        <img src="https://img.shields.io/badge/FastAPI-Async%20Turns-009688?logo=fastapi" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-black?logo=ollama" alt="Ollama"/>
+      </p>
+      <p>Autonomous multi-agent dialectic debate arena. Orchestrates structured rounds between four distinct persona agents (Techno-Optimist, Pragmatic Engineer, Ethics & Governance Advocate, Contrarian Critic) to synthesize nuanced consensus on controversial technology architecture questions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/crypto-arbitrage-scanner">crypto-arbitrage-scanner</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Algorithm-Bellman--Ford-10b981" alt="Algorithm"/>
+        <img src="https://img.shields.io/badge/Latency-%3C0.15ms-blueviolet" alt="Latency"/>
+        <img src="https://img.shields.io/badge/FastAPI-Quant%20API-009688?logo=fastapi" alt="FastAPI"/>
+      </p>
+      <p>Quantitative high-frequency triangular arbitrage detection engine. Converts exchange conversion rates into directed negative log weights $w = -\ln(\text{rate} \cdot (1 - \text{fee}))$, identifying risk-free negative cycles with compounding yields in sub-millisecond execution time.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/motion-cv-posture-coach">motion-cv-posture-coach</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MediaPipe-Pose%20Tracking-0097A7?logo=google" alt="MediaPipe"/>
+        <img src="https://img.shields.io/badge/Edge%20AI-100%25%20Private-brightgreen" alt="Edge AI"/>
+        <img src="https://img.shields.io/badge/Kinematics-Trig%20Vectors-38bdf8" alt="Kinematics"/>
+      </p>
+      <p>Zero-latency, 100% private in-browser ergonomic posture monitor and workout rep counter. Computes 33 skeletal landmarks on-device to track craniovertebral neck angles, spine slouching with biofeedback acoustic alerts, and squat/pushup workout depth inflections.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://github.com/JayNabasu/git-storyteller-ai">git-storyteller-ai</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-CLI%20Tool-blue?logo=python" alt="Python"/>
+        <img src="https://img.shields.io/badge/Git-Chronicles-F05032?logo=git" alt="Git"/>
+        <img src="https://img.shields.io/badge/Output-Cinematic%20HTML-purple" alt="HTML"/>
+      </p>
+      <p>Developer tooling and CLI turning any Git repository into a compelling, story-driven architectural documentary. Classifies commit semantics, partitions repository history into dramatic narrative chapters (Genesis, Acceleration, Hardening), and exports an interactive animated HTML chronicle.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Technical Competencies & Skill Matrix
 
 ```text
@@ -103,8 +163,9 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 ├── Data Engineering & BI   : Python (pandas, SQLAlchemy), SQL (PostgreSQL, SQLite), Star Schema Modeling, Streamlit, Data Contracts
 ├── Cloud Infrastructure    : Microsoft Azure (App Service, Functions, Synapse, Managed Redis, Blobs), Bicep IaC, CI/CD Pipelines
 ├── Applied AI & ML         : Local LLM Deployment (Ollama, Qwen 2.5, DeepSeek-R1), Time-Series Predictive Maintenance, scikit-learn
-├── Spatial Computing       : Three.js WebGL, Meta Quest Hardware, Unity, Matterport 3D Scanning, Treedis Digital Twins
-└── IT Governance           : Process Discovery, Systems Architecture (SDD/PRD), Information Security Risk Assessments, Agile
+├── Spatial & 3D Computing  : Three.js WebGL, Meta Quest Hardware, Unity, Matterport 3D Scanning, Treedis Digital Twins
+├── Algorithms & CV         : Bellman-Ford Negative Cycles, Symplectic Integrators, MediaPipe Edge Pose Kinematics, WebAudio API
+└── IT Governance & Arch    : Process Discovery, Systems Architecture (SDD/PRD), Information Security Risk Assessments, Agile
 ```
 
 ---
@@ -125,5 +186,5 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 ---
 
 <div align="center">
-  <sub>Designed & Developed by Jerry A. Nabasu • Built with production standards for enterprise impact.</sub>
+  <sub>Designed & Developed by Jerry A. Nabasu • Built with production standards for enterprise impact & technical breadth.</sub>
 </div>
