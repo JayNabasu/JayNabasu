@@ -11,7 +11,7 @@
 [![Azure Certified](https://img.shields.io/badge/Azure-Data%20Engineering%20Specialist-0089D6.svg?logo=microsoft-azure)]()
 
 <p align="center">
-  <em>Specializing in Enterprise Automation (UiPath REFramework, C#, SAP S/4HANA), Cloud Infrastructure (Microsoft Azure, Managed Redis), Data Warehouse Engineering (Python, PostgreSQL, Synapse), and Private Localized LLMs (Ollama, DeepSeek-R1, Qwen 2.5).</em>
+  <em>Specializing in Enterprise Automation (UiPath REFramework, C#, SAP S/4HANA), Cloud Architecture (Microsoft Azure Bicep, Managed Redis), Data Warehouse Engineering (Python, PostgreSQL, Synapse), Spatial Computing (Three.js, AR/VR), and Private Localized LLMs (Ollama, DeepSeek-R1, Qwen 2.5).</em>
 </p>
 
 </div>
@@ -23,8 +23,9 @@
 Over six years of demonstrated technical experience at **NNPC Limited** across the **Research, Technology, and Innovation (RTI)** directorate:
 - **Enterprise Robotic Process Automation**: Architected and delivered unattended RPA workflows across Finance, Tax, HSE, and Upstream workstreams utilizing **UiPath Studio, C#, VB.NET, Regular Expressions, and SAP S/4HANA** integration.
 - **Data Engineering & Analytics**: Coordinated the **Enterprise Data Warehouse (EDW)** initiative alongside the Enterprise Data Office; authored analytical data pipelines for joint venture cash-call reconciliations (**OML 119, NEPL-NAPIMS**) and quarterly budget variance tracking (**OMLs 20, 28, 38, 49, 116**).
-- **Applied Generative AI & Spatial Computing**: Designed and deployed localized open-weight AI models (**Ollama, Qwen 2.5, DeepSeek-R1**) for private workspace document intelligence; integrated AR/VR spatial computing digital twins (**Meta Quest, Unity, Matterport**) with enterprise LMS platforms.
-- **IT Governance & Architecture**: Conducted process discovery across 12+ enterprise business units to author signed Solution Design Documents (SDD) and Information Security Risk Assessments.
+- **Applied Generative AI & Predictive ML**: Deployed localized open-weight AI models (**Ollama, Qwen 2.5, DeepSeek-R1**) for private workspace document intelligence; trained time-series predictive maintenance models forecasting equipment degradation.
+- **Spatial Computing & Digital Twins**: Engineered subsea digital twin environments (**Three.js, WebGL, Meta Quest, Unity, Matterport**) and coordinated technical integration with the corporate Learning Management System (NNPC Academy).
+- **Cloud Infrastructure & DevSecOps**: Provisioned and secured Microsoft Azure cloud environments (**App Service, Functions, Managed Redis, Synapse Analytics**) with zero-trust Bicep Infrastructure as Code and pre-production security audits.
 
 ---
 
@@ -52,15 +53,43 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/JayNabasu/agentic-doc-intel-local-llm">agentic-doc-intel-local-llm</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-REST-009688?logo=fastapi" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Ollama-Qwen%202.5%20%26%20DeepSeek--R1-black?logo=ollama" alt="Ollama"/>
+        <img src="https://img.shields.io/badge/Ollama-Qwen%202.5%20%26%20DeepSeek-black?logo=ollama" alt="Ollama"/>
         <img src="https://img.shields.io/badge/Redis-Managed%20Cache-DC382D?logo=redis" alt="Redis"/>
-        <img src="https://img.shields.io/badge/Pydantic-v2%20Schemas-E92063?logo=pydantic" alt="Pydantic"/>
       </p>
-      <p>Private, zero-egress document intelligence agent powered by localized open-weight LLMs (Qwen 2.5 and DeepSeek-R1). Automatically parses complex engineering specifications, SDDs, and vendor agreements into strictly validated Pydantic JSON schemas with automated IT governance risk categorization and a dark-mode web portal.</p>
+      <p>Private, zero-egress document intelligence agent powered by localized open-weight LLMs (Qwen 2.5 and DeepSeek-R1). Automatically parses complex engineering specifications, SDDs, and vendor agreements into strictly validated Pydantic JSON schemas with automated IT governance risk categorization.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/energy-digital-twin-spatial-telemetry">energy-digital-twin-spatial-telemetry</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Three.js-WebGL%203D-black?logo=three.js" alt="Three.js"/>
+        <img src="https://img.shields.io/badge/Spatial-AR%2FVR%20Digital%20Twin-blueviolet" alt="Spatial"/>
+        <img src="https://img.shields.io/badge/LMS-xAPI%20Training-0284c7" alt="LMS"/>
+      </p>
+      <p>Interactive 3D Digital Twin and spatial telemetry monitoring platform of the OML 119 Deepwater Subsea Production Manifold. Features 3D sensor telemetry overlays (PSI, Temp, Vibration) and an xAPI virtual reality operator training walkthrough synced with NNPC Academy LMS.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/upstream-predictive-maintenance-ml">upstream-predictive-maintenance-ml</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Scikit--Learn-1.4%2B-F7931E?logo=scikit-learn" alt="Scikit-Learn"/>
+        <img src="https://img.shields.io/badge/ROC--AUC-97.7%25-success" alt="ROC-AUC"/>
+        <img src="https://img.shields.io/badge/FastAPI-Inference-009688?logo=fastapi" alt="FastAPI"/>
+      </p>
+      <p>Industrial machine learning pipeline and inference microservice predicting Electrical Submersible Pump (ESP) failures across OML assets (20, 28, 38, 49, 116) within 72 hours. Features rolling degradation indicators, 97.7% ROC-AUC, and automated workover alerts.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/azure-enterprise-cloud-platform-iac">azure-enterprise-cloud-platform-iac</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Azure-Bicep%20IaC-0078D4?logo=microsoft-azure" alt="Azure"/>
+        <img src="https://img.shields.io/badge/Redis-Managed-DC382D?logo=redis" alt="Redis"/>
+        <img src="https://img.shields.io/badge/Synapse-Data%20Warehouse-0078D4" alt="Synapse"/>
+      </p>
+      <p>Enterprise Azure Infrastructure as Code (Bicep) deploying a hardened foundation for subsidiary digital platforms. Provisions Azure App Service, Function Apps, Managed Redis, Key Vault RBAC, and Synapse Analytics with private endpoints and pre-production security audit checklists.</p>
     </td>
   </tr>
 </table>
@@ -72,9 +101,9 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 ```text
 ├── Automation & RPA        : UiPath Studio (REFramework, C#, VB.NET), Power Automate, AI Builder, Copilot Studio, SAP S/4HANA
 ├── Data Engineering & BI   : Python (pandas, SQLAlchemy), SQL (PostgreSQL, SQLite), Star Schema Modeling, Streamlit, Data Contracts
-├── Cloud Infrastructure    : Microsoft Azure (App Service, Functions, Synapse, Managed Redis, Blobs), CI/CD (GitHub Actions, Azure DevOps)
-├── Applied AI & ML         : Local LLM Deployment (Ollama, Qwen 2.5, DeepSeek-R1), Prompt Engineering, Pydantic v2, scikit-learn
-├── Spatial Computing       : Meta Quest Hardware, Unity, Matterport 3D Scanning, Treedis Digital Twins
+├── Cloud Infrastructure    : Microsoft Azure (App Service, Functions, Synapse, Managed Redis, Blobs), Bicep IaC, CI/CD Pipelines
+├── Applied AI & ML         : Local LLM Deployment (Ollama, Qwen 2.5, DeepSeek-R1), Time-Series Predictive Maintenance, scikit-learn
+├── Spatial Computing       : Three.js WebGL, Meta Quest Hardware, Unity, Matterport 3D Scanning, Treedis Digital Twins
 └── IT Governance           : Process Discovery, Systems Architecture (SDD/PRD), Information Security Risk Assessments, Agile
 ```
 
