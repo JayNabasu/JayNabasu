@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Jerry A. Nabasu 👋
-### Automation & Digital Innovation Professional | Enterprise RPA, Data Platforms & Applied AI
+### Automation & Digital Innovation Professional | Enterprise Platforms, Systems Architecture & Applied AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerry%20Nabasu-0077B5.svg?logo=linkedin)](https://www.linkedin.com/in/jerrynabasu/)
 [![Email](https://img.shields.io/badge/Email-jerrynabasu%40gmail.com-EA4335.svg?logo=gmail)](mailto:jerrynabasu@gmail.com)
@@ -12,12 +12,17 @@
 
 <br/>
 
+### 🌐 Live Interactive Engineering Laboratories
+[![Live Swarm NEAT](https://img.shields.io/badge/Live_Demo-NEAT_Swarm_Intelligence-10b981?style=for-the-badge&logo=three.js)](https://jaynabasu.github.io/neuroevolution-swarm-sandbox/)
+[![Live Raymarcher](https://img.shields.io/badge/Live_Demo-Prism_SDF_Raymarcher-f43f5e?style=for-the-badge&logo=webgl)](https://jaynabasu.github.io/prism-raymarcher-engine/)
+[![Live Flux VM](https://img.shields.io/badge/Live_Demo-Flux_Compiler_%26_VM-8b5cf6?style=for-the-badge&logo=javascript)](https://jaynabasu.github.io/flux-lang-compiler-vm/)
+[![Live ZK Vault](https://img.shields.io/badge/Live_Demo-ZK_Merkle_Vault-06b6d4?style=for-the-badge&logo=lock)](https://jaynabasu.github.io/zk-merkle-credential-vault/)
 [![Live 3D Gravity](https://img.shields.io/badge/Live_Demo-Celestial_Gravity_3D-0284c7?style=for-the-badge&logo=three.js)](https://jaynabasu.github.io/celestial-gravity-sandbox/)
 [![Live Posture Coach](https://img.shields.io/badge/Live_Demo-MotionCV_Edge_Coach-0097A7?style=for-the-badge&logo=google)](https://jaynabasu.github.io/motion-cv-posture-coach/)
 [![Live Digital Twin](https://img.shields.io/badge/Live_Demo-Subsea_Digital_Twin-9333ea?style=for-the-badge&logo=webgl)](https://jaynabasu.github.io/energy-digital-twin-spatial-telemetry/)
 
 <p align="center">
-  <em>Specializing in Enterprise Automation (UiPath REFramework, C#, SAP S/4HANA), Cloud Architecture (Microsoft Azure Bicep, Managed Redis), Data Warehouse Engineering (Python, PostgreSQL, Synapse), Spatial Computing (Three.js, AR/VR), and Private Localized LLMs (Ollama, DeepSeek-R1, Qwen 2.5).</em>
+  <em>Specializing in Enterprise Automation (UiPath REFramework, C#, SAP S/4HANA), Cloud Architecture (Microsoft Azure Bicep, Managed Redis), Systems Engineering (Distributed Raft Consensus, Compilers & VMs), Zero-Knowledge Cryptography, and Applied AI (Ollama, DeepSeek-R1, Qwen 2.5).</em>
 </p>
 
 <p align="center">
@@ -36,7 +41,7 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 - **Data Engineering & Analytics**: Coordinated the **Enterprise Data Warehouse (EDW)** initiative alongside the Enterprise Data Office; authored analytical data pipelines for joint venture cash-call reconciliations (**OML 119, NEPL-NAPIMS**) and quarterly budget variance tracking (**OMLs 20, 28, 38, 49, 116**).
 - **Applied Generative AI & Predictive ML**: Deployed localized open-weight AI models (**Ollama, Qwen 2.5, DeepSeek-R1**) for private workspace document intelligence; trained time-series predictive maintenance models forecasting equipment degradation.
 - **Spatial Computing & Digital Twins**: Engineered subsea digital twin environments (**Three.js, WebGL, Meta Quest, Unity, Matterport**) and coordinated technical integration with the corporate Learning Management System (NNPC Academy).
-- **Cloud Infrastructure & DevSecOps**: Provisioned and secured Microsoft Azure cloud environments (**App Service, Functions, Managed Redis, Synapse Analytics**) with zero-trust Bicep Infrastructure as Code and pre-production security audits.
+- **Systems Architecture & Distributed Computing**: Implemented foundational low-level computer science architectures including Raft distributed consensus clusters, custom bytecode compilers & VMs, zero-knowledge cryptographic proof engines, and real-time raymarching shaders.
 
 ---
 
@@ -126,9 +131,74 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 
 ---
 
-## 🔬 Creative Labs, Algorithms & Edge Computing
+## ⚡ Deep-Tech, Systems & Cryptographic Engineering Labs
 
-Demonstrating algorithmic versatility, multi-agent AI systems, high-frequency quantitative computing, and computer vision:
+Showcasing foundational computer science implementations built from first principles:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/zenith-kv-engine">zenith-kv-engine</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Consensus-Raft%20Protocol-6366f1" alt="Raft"/>
+        <img src="https://img.shields.io/badge/Index-SkipList%20O(log%20n)-06b6d4" alt="SkipList"/>
+        <img src="https://img.shields.io/badge/Durability-WAL%20%2B%20CRC32-10b981" alt="WAL"/>
+        <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
+      </p>
+      <p>High-performance in-memory key-value database engine written from scratch. Features probabilistic $O(\log n)$ SkipLists, binary PrefixTries, binary Write-Ahead Logging (WAL) with CRC32 integrity checks, background AOF compactor, and a distributed 3-node Raft consensus cluster with partition tolerance.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/neuroevolution-swarm-sandbox">neuroevolution-swarm-sandbox</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-NEAT%20Genetic%20Algorithm-10b981" alt="NEAT"/>
+        <img src="https://img.shields.io/badge/Three.js-3D%20Swarm%20Arena-black?logo=three.js" alt="Three.js"/>
+        <img src="https://img.shields.io/badge/Demo-Live%20Online-008751" alt="Live Demo"/>
+      </p>
+      <p>3D Artificial Life & Neuroevolution simulator implementing the NEAT algorithm from scratch (dynamic node/connection mutations, historical innovation tracking, genomic speciation distance). Simulates 35 autonomous agents evolving raycast obstacle avoidance with a live neural connectome HUD.</p>
+      <p align="center"><a href="https://jaynabasu.github.io/neuroevolution-swarm-sandbox/"><strong>🧬 Launch Live Swarm Simulation →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/flux-lang-compiler-vm">flux-lang-compiler-vm</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Toolchain-Lexer%20%2B%20Parser%20%2B%20VM-8b5cf6" alt="Compiler"/>
+        <img src="https://img.shields.io/badge/Bytecode-Stack%20Virtual%20Machine-f59e0b" alt="VM"/>
+        <img src="https://img.shields.io/badge/Demo-Live%20Online-008751" alt="Live Demo"/>
+      </p>
+      <p>Complete custom programming language toolchain built from first principles. Features a regex lexer, recursive-descent AST parser, bytecode compiler with jump backpatching, and a stack virtual machine with gas loop limits. Includes an interactive in-browser IDE with step-through disassembler.</p>
+      <p align="center"><a href="https://jaynabasu.github.io/flux-lang-compiler-vm/"><strong>💻 Launch Live Language IDE Studio →</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/prism-raymarcher-engine">prism-raymarcher-engine</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Graphics-SDF%20Raymarching-f43f5e" alt="SDF"/>
+        <img src="https://img.shields.io/badge/Fractal-Mandelbulb%20Power--8-a855f7" alt="Mandelbulb"/>
+        <img src="https://img.shields.io/badge/Demo-Live%20Online-008751" alt="Live Demo"/>
+      </p>
+      <p>Mathematical Signed Distance Field (SDF) 3D raymarching engine rendered entirely in WebGL fragment shaders. Features real-time ray-sphere bounding, soft penumbra shadows, ambient occlusion, organic CSG smooth-minimum blending, and infinite 3D space folding of the power-8 Mandelbulb fractal.</p>
+      <p align="center"><a href="https://jaynabasu.github.io/prism-raymarcher-engine/"><strong>✨ Launch Live 3D Raymarcher →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://github.com/JayNabasu/zk-merkle-credential-vault">zk-merkle-credential-vault</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cryptography-Zero--Knowledge%20Proofs-06b6d4" alt="ZKP"/>
+        <img src="https://img.shields.io/badge/RFC%203526-2048--bit%20Safe%20Prime-6366f1" alt="RFC 3526"/>
+        <img src="https://img.shields.io/badge/Commitment-Pedersen%20Blinding-10b981" alt="Pedersen"/>
+        <img src="https://img.shields.io/badge/Protocol-CDS94%20Disjunctive%20ZKP-f59e0b" alt="CDS94"/>
+        <img src="https://img.shields.io/badge/Demo-Live%20Online-008751" alt="Live Demo"/>
+      </p>
+      <p>Sovereign identity and privacy-preserving credential attestation engine. Combines Sparse Merkle Trees with SHA-256 inclusion proofs, Non-Interactive Schnorr Proofs of Knowledge (Fiat-Shamir heuristic), and CDS94 1-of-K disjunctive range proofs over an RFC 3526 2048-bit MODP safe prime group. Allows operators to prove threshold clearance without revealing private keys or confidential attribute levels.</p>
+      <p align="center"><a href="https://jaynabasu.github.io/zk-merkle-credential-vault/"><strong>🛡️ Launch Live Cryptographic Vault Studio →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Creative Computing, Quantitative Algorithms & Edge CV
 
 <table>
   <tr>
@@ -140,7 +210,7 @@ Demonstrating algorithmic versatility, multi-agent AI systems, high-frequency qu
         <img src="https://img.shields.io/badge/Demo-Live%20Online-008751" alt="Live Demo"/>
       </p>
       <p>Interactive 3D N-Body gravitational simulator and celestial acoustics engine. Employs a Symplectic Velocity Verlet integrator for energy-conserving orbital trajectories, slingshot insertion mechanics, and procedural harmonic synthesizer generating resonant soundscapes upon planetary collisions.</p>
-      <p align="center"><a href="https://jaynabasu.github.io/celestial-gravity-sandbox/"><strong>🎮 Launch Live 3D Simulation →</strong></a></p>
+      <p align="center"><a href="https://jaynabasu.github.io/celestial-gravity-sandbox/"><strong>🪐 Launch Live 3D Simulation →</strong></a></p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/JayNabasu/multi-agent-debate-arena">multi-agent-debate-arena</a></h3>
@@ -188,16 +258,16 @@ Demonstrating algorithmic versatility, multi-agent AI systems, high-frequency qu
 
 ---
 
-## 📌 Recommended Pinned Repositories
+## 📌 Prioritized Showcase Repositories
 
-For technical recruiters and hiring committees reviewing [@JayNabasu](https://github.com/JayNabasu), the following 6 repositories are prioritized to represent full-spectrum engineering leadership:
+For technical recruiters and hiring committees reviewing [@JayNabasu](https://github.com/JayNabasu), the following repositories illustrate full-spectrum engineering depth across Enterprise, Systems, and Cryptography:
 
 1. [**enterprise-rpa-financial-reconciliation**](https://github.com/JayNabasu/enterprise-rpa-financial-reconciliation) — *Enterprise UiPath REFramework (C#), SAP S/4HANA OData & SDD Architecture.*
-2. [**energy-edw-pipeline-analytics**](https://github.com/JayNabasu/energy-edw-pipeline-analytics) — *Upstream Energy Data Warehouse, Star Schema & Joint Venture Analytics.*
-3. [**agentic-doc-intel-local-llm**](https://github.com/JayNabasu/agentic-doc-intel-local-llm) — *Private Workspace Local LLMs (Ollama, DeepSeek-R1, Qwen 2.5) & Risk Categorization.*
-4. [**energy-digital-twin-spatial-telemetry**](https://github.com/JayNabasu/energy-digital-twin-spatial-telemetry) — *Three.js WebGL 3D Subsea Digital Twin & LMS Training Integration.*
-5. [**upstream-predictive-maintenance-ml**](https://github.com/JayNabasu/upstream-predictive-maintenance-ml) — *Industrial ML Predictive Maintenance (97.7% ROC-AUC) on ESP Pumps.*
-6. [**crypto-arbitrage-scanner**](https://github.com/JayNabasu/crypto-arbitrage-scanner) — *Sub-millisecond Bellman-Ford Negative Cycle Algorithmic Trading Engine.*
+2. [**zenith-kv-engine**](https://github.com/JayNabasu/zenith-kv-engine) — *Distributed In-Memory Database, SkipLists, WAL Durability & 3-Node Raft Consensus.*
+3. [**zk-merkle-credential-vault**](https://github.com/JayNabasu/zk-merkle-credential-vault) — *Zero-Knowledge Proofs (RFC 3526 MODP, Pedersen Commitments, CDS94 Range ZKP) & Sparse Merkle Trees.*
+4. [**flux-lang-compiler-vm**](https://github.com/JayNabasu/flux-lang-compiler-vm) — *Custom Programming Language Compiler, AST Parser, Stack Bytecode VM & In-Browser IDE.*
+5. [**neuroevolution-swarm-sandbox**](https://github.com/JayNabasu/neuroevolution-swarm-sandbox) — *NEAT Genetic Neural Networks, 3D Autonomous Swarm Intelligence & Connectome HUD.*
+6. [**energy-edw-pipeline-analytics**](https://github.com/JayNabasu/energy-edw-pipeline-analytics) — *Upstream Energy Data Warehouse, Star Schema Modeling & Joint Venture Analytics.*
 
 ---
 
@@ -205,10 +275,12 @@ For technical recruiters and hiring committees reviewing [@JayNabasu](https://gi
 
 ```text
 ├── Automation & RPA        : UiPath Studio (REFramework, C#, VB.NET), Power Automate, AI Builder, Copilot Studio, SAP S/4HANA
+├── Systems & Architecture  : Distributed Raft Consensus, SkipLists, WAL Durability, Compilers & Stack VMs, AST Parsing
+├── Cryptography & Privacy  : Zero-Knowledge Proofs (Schnorr NIZK, CDS94 1-of-K), Pedersen Commitments, Sparse Merkle Trees, RFC 3526
 ├── Data Engineering & BI   : Python (pandas, SQLAlchemy), SQL (PostgreSQL, SQLite), Star Schema Modeling, Streamlit, Data Contracts
 ├── Cloud Infrastructure    : Microsoft Azure (App Service, Functions, Synapse, Managed Redis, Blobs), Bicep IaC, CI/CD Pipelines
-├── Applied AI & ML         : Local LLM Deployment (Ollama, Qwen 2.5, DeepSeek-R1), Time-Series Predictive Maintenance, scikit-learn
-├── Spatial & 3D Computing  : Three.js WebGL, Meta Quest Hardware, Unity, Matterport 3D Scanning, Treedis Digital Twins
+├── Applied AI & ML         : Local LLM Deployment (Ollama, Qwen 2.5, DeepSeek-R1), NEAT Genetic Neural Networks, scikit-learn
+├── Graphics & Spatial      : Signed Distance Fields (SDF) Raymarching, WebGL Fragment Shaders, Three.js, Meta Quest VR
 ├── Algorithms & CV         : Bellman-Ford Negative Cycles, Symplectic Integrators, MediaPipe Edge Pose Kinematics, WebAudio API
 └── IT Governance & Arch    : Process Discovery, Systems Architecture (SDD/PRD), Information Security Risk Assessments, Agile
 ```
@@ -231,5 +303,5 @@ For technical recruiters and hiring committees reviewing [@JayNabasu](https://gi
 ---
 
 <div align="center">
-  <sub>Designed & Developed by Jerry A. Nabasu • Built with production standards for enterprise impact & technical breadth.</sub>
+  <sub>Designed & Developed by Jerry A. Nabasu • Built with production standards for enterprise impact, systems rigor & technical breadth.</sub>
 </div>
