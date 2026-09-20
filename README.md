@@ -109,6 +109,19 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
       <p>Enterprise Azure Infrastructure as Code (Bicep) deploying a hardened foundation for subsidiary digital platforms. Provisions Azure App Service, Function Apps, Managed Redis, Key Vault RBAC, and Synapse Analytics with private endpoints and pre-production security audit checklists.</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://github.com/JayNabasu/enterprise-attendance-portal">enterprise-attendance-portal</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-REST-009688?logo=fastapi" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/WebSockets-Live%20Telemetry-010101?logo=socketdotio" alt="WebSockets"/>
+        <img src="https://img.shields.io/badge/Security-HMAC--SHA256-blueviolet" alt="HMAC-SHA256"/>
+        <img src="https://img.shields.io/badge/WebRTC-Camera%20Scanner-333333?logo=webrtc" alt="WebRTC"/>
+        <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
+      </p>
+      <p>Enterprise workforce attendance and physical presence intelligence platform. Eliminates proxy clock-ins via a 15-second dynamic cryptographic rotating QR kiosk (TOTP/HMAC-SHA256), enforces corporate shift compliance (07:30 AM On-Time, 08:30 AM Grace Cutoff, automated late penalties), and features real-time WebSocket HR headcount radar dashboards with 1-click Excel timesheet exports.</p>
+    </td>
+  </tr>
 </table>
 
 ---
