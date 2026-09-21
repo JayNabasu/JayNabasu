@@ -38,7 +38,7 @@
 
 Over six years of demonstrated technical experience at **NNPC Limited** across the **Research, Technology, and Innovation (RTI)** directorate:
 - **Enterprise Robotic Process Automation**: Architected and delivered unattended RPA workflows across Finance, Tax, HSE, and Upstream workstreams utilizing **UiPath Studio, C#, VB.NET, Regular Expressions, and SAP S/4HANA** integration.
-- **Data Engineering & Analytics**: Coordinated the **Enterprise Data Warehouse (EDW)** initiative alongside the Enterprise Data Office; authored analytical data pipelines for joint venture cash-call reconciliations (**OML 119, NEPL-NAPIMS**) and quarterly budget variance tracking (**OMLs 20, 28, 38, 49, 116**).
+- **Data Engineering & Analytics**: Coordinated the **Enterprise Data Warehouse (EDW)** initiative alongside the Enterprise Data Office; authored analytical data pipelines for joint venture cash-call reconciliations and quarterly budget variance tracking across offshore, swamp, and onshore operating assets.
 - **Applied Generative AI & Predictive ML**: Deployed localized open-weight AI models (**Ollama, Qwen 2.5, DeepSeek-R1**) for private workspace document intelligence; trained time-series predictive maintenance models forecasting equipment degradation.
 - **Spatial Computing & Digital Twins**: Engineered subsea digital twin environments (**Three.js, WebGL, Meta Quest, Unity, Matterport**) and coordinated technical integration with the corporate Learning Management System (NNPC Academy).
 - **Systems Architecture & Distributed Computing**: Implemented foundational low-level computer science architectures including Raft distributed consensus clusters, custom bytecode compilers & VMs, zero-knowledge cryptographic proof engines, and real-time raymarching shaders.
@@ -67,7 +67,7 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
         <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit" alt="Streamlit"/>
         <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
       </p>
-      <p>Upstream oil & gas Enterprise Data Warehouse (EDW) and operational analytics platform modeling telemetry across OML 119, 20, 28, 38, 49, and 116. Features automated JV partner cash-call reconciliation (NEPL-NAPIMS), volumetric conservation contracts, and an executive Streamlit portal.</p>
+      <p>Upstream oil & gas Enterprise Data Warehouse (EDW) and operational analytics platform modeling high-frequency production telemetry across diversified offshore and onshore operating assets. Features automated multi-partner joint venture cash-call reconciliation, volumetric conservation contracts, and an executive Streamlit portal.</p>
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
         <img src="https://img.shields.io/badge/Spatial-AR%2FVR%20Digital%20Twin-blueviolet" alt="Spatial"/>
         <img src="https://img.shields.io/badge/Demo-Live%20Online-008751" alt="Live Demo"/>
       </p>
-      <p>Interactive 3D Digital Twin and spatial telemetry monitoring platform of the OML 119 Deepwater Subsea Production Manifold. Features 3D sensor telemetry overlays (PSI, Temp, Vibration) and an xAPI virtual reality operator training walkthrough synced with NNPC Academy LMS.</p>
+      <p>Interactive 3D Digital Twin and spatial telemetry monitoring platform of a deepwater subsea production manifold. Features 3D sensor telemetry overlays (PSI, Temp, Vibration) and an xAPI virtual reality operator training walkthrough synced with corporate LMS.</p>
       <p align="center"><a href="https://jaynabasu.github.io/energy-digital-twin-spatial-telemetry/"><strong>🌐 Launch Live 3D Digital Twin Demo →</strong></a></p>
     </td>
   </tr>
@@ -101,7 +101,7 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
         <img src="https://img.shields.io/badge/FastAPI-Inference-009688?logo=fastapi" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
       </p>
-      <p>Industrial machine learning pipeline and inference microservice predicting Electrical Submersible Pump (ESP) failures across OML assets (20, 28, 38, 49, 116) within 72 hours. Features rolling degradation indicators, 97.7% ROC-AUC, and automated workover alerts.</p>
+      <p>Industrial machine learning pipeline and inference microservice predicting Electrical Submersible Pump (ESP) failures across upstream production assets within 72 hours. Features rolling degradation indicators, 97.7% ROC-AUC, and automated workover alerts.</p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/JayNabasu/azure-enterprise-cloud-platform-iac">azure-enterprise-cloud-platform-iac</a></h3>
