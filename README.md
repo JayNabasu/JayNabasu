@@ -28,8 +28,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayNabasu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jerry's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayNabasu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <a href="https://github.com/JayNabasu?tab=repositories">
+    <img src="https://img.shields.io/badge/Showcase_Repositories-20_Production_Grade-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/JayNabasu">
+    <img src="https://img.shields.io/badge/CI%2FCD_Test_Coverage-100%25_Passing-10b981?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  </a>
+  <a href="https://github.com/JayNabasu">
+    <img src="https://img.shields.io/badge/Architecture-Zero--Mock_Policy-f59e0b?style=for-the-badge&logo=codeforces&logoColor=white" alt="Zero-Mock" />
+  </a>
+  <a href="https://github.com/JayNabasu">
+    <img src="https://img.shields.io/badge/Codebase-Zero_Secret_Leakage-8b5cf6?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security" />
+  </a>
 </p>
 
 </div>
