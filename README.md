@@ -13,6 +13,8 @@
 <br/>
 
 ### 🌐 Live Interactive Engineering Laboratories
+[![Live MCP Studio](https://img.shields.io/badge/Live_Demo-Nexus_MCP_Gateway-06b6d4?style=for-the-badge&logo=anthropic)](https://jaynabasu.github.io/nexus-mcp-enterprise-gateway/)
+[![Live Vector HNSW](https://img.shields.io/badge/Live_Demo-Vector_HNSW_Studio-f43f5e?style=for-the-badge&logo=scipy)](https://jaynabasu.github.io/vector-hnsw-search-engine/)
 [![Live Swarm NEAT](https://img.shields.io/badge/Live_Demo-NEAT_Swarm_Intelligence-10b981?style=for-the-badge&logo=three.js)](https://jaynabasu.github.io/neuroevolution-swarm-sandbox/)
 [![Live Raymarcher](https://img.shields.io/badge/Live_Demo-Prism_SDF_Raymarcher-f43f5e?style=for-the-badge&logo=webgl)](https://jaynabasu.github.io/prism-raymarcher-engine/)
 [![Live Flux VM](https://img.shields.io/badge/Live_Demo-Flux_Compiler_%26_VM-8b5cf6?style=for-the-badge&logo=javascript)](https://jaynabasu.github.io/flux-lang-compiler-vm/)
@@ -115,13 +117,23 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/nexus-mcp-enterprise-gateway">nexus-mcp-enterprise-gateway</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MCP-2024--11--05-blueviolet?logo=anthropic" alt="MCP"/>
+        <img src="https://img.shields.io/badge/FastAPI-REST-009688?logo=fastapi" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Security-RBAC%20%26%20DLP-06b6d4" alt="DLP"/>
+        <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
+      </p>
+      <p>Production Model Context Protocol (MCP) server mesh, execution sandbox, and governance gateway. Features standard JSON-RPC 2.0 protocol dispatch, role-based tool filtering (Analyst, Auditor, Admin), automated PII/credential redaction, Human-In-The-Loop approval gates, and OpenTelemetry distributed tracing.</p>
+      <p align="center"><a href="https://jaynabasu.github.io/nexus-mcp-enterprise-gateway/"><strong>🌐 Launch Live MCP Studio →</strong></a></p>
+    </td>
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/JayNabasu/enterprise-attendance-portal">enterprise-attendance-portal</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-REST-009688?logo=fastapi" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/WebSockets-Live%20Telemetry-010101?logo=socketdotio" alt="WebSockets"/>
         <img src="https://img.shields.io/badge/Security-HMAC--SHA256-blueviolet" alt="HMAC-SHA256"/>
-        <img src="https://img.shields.io/badge/WebRTC-Camera%20Scanner-333333?logo=webrtc" alt="WebRTC"/>
         <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
       </p>
       <p>Enterprise workforce attendance and physical presence intelligence platform. Eliminates proxy clock-ins via a 15-second dynamic cryptographic rotating QR kiosk (TOTP/HMAC-SHA256), enforces corporate shift compliance (07:30 AM On-Time, 08:30 AM Grace Cutoff, automated late penalties), and features real-time WebSocket HR headcount radar dashboards with 1-click Excel timesheet exports.</p>
@@ -181,7 +193,18 @@ Showcasing foundational computer science implementations built from first princi
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/JayNabasu/vector-hnsw-search-engine">vector-hnsw-search-engine</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Algorithm-HNSW%20Graph-f43f5e" alt="HNSW"/>
+        <img src="https://img.shields.io/badge/Recall%4010-99.8%25-10b981" alt="Recall"/>
+        <img src="https://img.shields.io/badge/Quantization-SQ8%20(75%25%20Savings)-06b6d4" alt="SQ8"/>
+        <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
+      </p>
+      <p>Bare-metal high-dimensional vector search engine built from first principles. Implements multi-layer Hierarchical Navigable Small World (HNSW) proximity graphs, SIMD-accelerated distance metrics, 8-bit Scalar Quantization (SQ8), and Reciprocal Rank Fusion (RRF) hybrid search with BM25.</p>
+      <p align="center"><a href="https://jaynabasu.github.io/vector-hnsw-search-engine/"><strong>⚡ Launch Live HNSW Visualizer →</strong></a></p>
+    </td>
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/JayNabasu/zk-merkle-credential-vault">zk-merkle-credential-vault</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Cryptography-Zero--Knowledge%20Proofs-06b6d4" alt="ZKP"/>
@@ -260,23 +283,27 @@ Showcasing foundational computer science implementations built from first princi
 
 ## 📌 Prioritized Showcase Repositories
 
-For technical recruiters and hiring committees reviewing [@JayNabasu](https://github.com/JayNabasu), the following repositories illustrate full-spectrum engineering depth across Enterprise, Systems, and Cryptography:
+For technical recruiters and hiring committees reviewing [@JayNabasu](https://github.com/JayNabasu), the following repositories illustrate full-spectrum engineering depth across Enterprise, Systems, AI Infrastructure, and Cryptography:
 
-1. [**enterprise-rpa-financial-reconciliation**](https://github.com/JayNabasu/enterprise-rpa-financial-reconciliation) — *Enterprise UiPath REFramework (C#), SAP S/4HANA OData & SDD Architecture.*
-2. [**zenith-kv-engine**](https://github.com/JayNabasu/zenith-kv-engine) — *Distributed In-Memory Database, SkipLists, WAL Durability & 3-Node Raft Consensus.*
-3. [**zk-merkle-credential-vault**](https://github.com/JayNabasu/zk-merkle-credential-vault) — *Zero-Knowledge Proofs (RFC 3526 MODP, Pedersen Commitments, CDS94 Range ZKP) & Sparse Merkle Trees.*
-4. [**flux-lang-compiler-vm**](https://github.com/JayNabasu/flux-lang-compiler-vm) — *Custom Programming Language Compiler, AST Parser, Stack Bytecode VM & In-Browser IDE.*
-5. [**neuroevolution-swarm-sandbox**](https://github.com/JayNabasu/neuroevolution-swarm-sandbox) — *NEAT Genetic Neural Networks, 3D Autonomous Swarm Intelligence & Connectome HUD.*
-6. [**energy-edw-pipeline-analytics**](https://github.com/JayNabasu/energy-edw-pipeline-analytics) — *Upstream Energy Data Warehouse, Star Schema Modeling & Joint Venture Analytics.*
+1. [**nexus-mcp-enterprise-gateway**](https://github.com/JayNabasu/nexus-mcp-enterprise-gateway) — *Model Context Protocol (MCP) Server Mesh, RBAC Policy Engine, DLP Sanitizer & OpenTelemetry Tracing.*
+2. [**vector-hnsw-search-engine**](https://github.com/JayNabasu/vector-hnsw-search-engine) — *Bare-Metal HNSW Vector Database, SIMD Distance Metrics, SQ8 Quantization & Hybrid BM25 Fusion.*
+3. [**enterprise-rpa-financial-reconciliation**](https://github.com/JayNabasu/enterprise-rpa-financial-reconciliation) — *Enterprise UiPath REFramework (C#), SAP S/4HANA OData & SDD Architecture.*
+4. [**zenith-kv-engine**](https://github.com/JayNabasu/zenith-kv-engine) — *Distributed In-Memory Database, SkipLists, WAL Durability & 3-Node Raft Consensus.*
+5. [**zk-merkle-credential-vault**](https://github.com/JayNabasu/zk-merkle-credential-vault) — *Zero-Knowledge Proofs (RFC 3526 MODP, Pedersen Commitments, CDS94 Range ZKP) & Sparse Merkle Trees.*
+6. [**flux-lang-compiler-vm**](https://github.com/JayNabasu/flux-lang-compiler-vm) — *Custom Programming Language Compiler, AST Parser, Stack Bytecode VM & In-Browser IDE.*
+7. [**neuroevolution-swarm-sandbox**](https://github.com/JayNabasu/neuroevolution-swarm-sandbox) — *NEAT Genetic Neural Networks, 3D Autonomous Swarm Intelligence & Connectome HUD.*
+8. [**energy-edw-pipeline-analytics**](https://github.com/JayNabasu/energy-edw-pipeline-analytics) — *Upstream Energy Data Warehouse, Star Schema Modeling & Joint Venture Analytics.*
 
 ---
 
 ## 🛠️ Technical Competencies & Skill Matrix
 
 ```text
-├── Automation & RPA        : UiPath Studio (REFramework, C#, VB.NET), Power Automate, AI Builder, Copilot Studio, SAP S/4HANA
+├── Agentic AI & Protocols  : Model Context Protocol (Anthropic MCP 2024-11-05), JSON-RPC 2.0, Tool Sandboxing, HITL Gates
 ├── Systems & Architecture  : Distributed Raft Consensus, SkipLists, WAL Durability, Compilers & Stack VMs, AST Parsing
+├── Vector DB & Information : HNSW Proximity Graphs (Malkov & Yashunin), SQ8 Quantization, BM25 Okapi, Reciprocal Rank Fusion
 ├── Cryptography & Privacy  : Zero-Knowledge Proofs (Schnorr NIZK, CDS94 1-of-K), Pedersen Commitments, Sparse Merkle Trees, RFC 3526
+├── Automation & RPA        : UiPath Studio (REFramework, C#, VB.NET), Power Automate, AI Builder, Copilot Studio, SAP S/4HANA
 ├── Data Engineering & BI   : Python (pandas, SQLAlchemy), SQL (PostgreSQL, SQLite), Star Schema Modeling, Streamlit, Data Contracts
 ├── Cloud Infrastructure    : Microsoft Azure (App Service, Functions, Synapse, Managed Redis, Blobs), Bicep IaC, CI/CD Pipelines
 ├── Applied AI & ML         : Local LLM Deployment (Ollama, Qwen 2.5, DeepSeek-R1), NEAT Genetic Neural Networks, scikit-learn
