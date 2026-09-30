@@ -13,6 +13,7 @@
 <br/>
 
 ### 🌐 Live Interactive Engineering Laboratories
+[![Live Reservoir Simulator](https://img.shields.io/badge/Live_Demo-Reservoir_Simulator_(Rust%2BWASM)-f97316?style=for-the-badge&logo=webassembly)](https://jaynabasu.github.io/reservoir-sim-hpc/)
 [![Live MCP Studio](https://img.shields.io/badge/Live_Demo-Nexus_MCP_Gateway-06b6d4?style=for-the-badge&logo=anthropic)](https://jaynabasu.github.io/nexus-mcp-enterprise-gateway/)
 [![Live Vector HNSW](https://img.shields.io/badge/Live_Demo-Vector_HNSW_Studio-f43f5e?style=for-the-badge&logo=scipy)](https://jaynabasu.github.io/vector-hnsw-search-engine/)
 [![Live Swarm NEAT](https://img.shields.io/badge/Live_Demo-NEAT_Swarm_Intelligence-10b981?style=for-the-badge&logo=three.js)](https://jaynabasu.github.io/neuroevolution-swarm-sandbox/)
@@ -29,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/JayNabasu?tab=repositories">
-    <img src="https://img.shields.io/badge/Showcase_Repositories-20_Production_Grade-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Showcase_Repositories-21_Production_Grade-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
   <a href="https://github.com/JayNabasu">
     <img src="https://img.shields.io/badge/CI%2FCD_Test_Coverage-100%25_Passing-10b981?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
@@ -60,6 +61,21 @@ Over six years of demonstrated technical experience at **NNPC Limited** across t
 ## 🏛️ Flagship Enterprise & Energy Platforms
 
 <table>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://github.com/JayNabasu/reservoir-sim-hpc">reservoir-sim-hpc</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-Simulator%20Core-orange?logo=rust" alt="Rust"/>
+        <img src="https://img.shields.io/badge/Solver-CPR--AMG%20%2B%20Newton-0284c7" alt="CPR-AMG"/>
+        <img src="https://img.shields.io/badge/Validated-SPE1%20vs%20ECLIPSE%20%3C0.13%25-success" alt="SPE1"/>
+        <img src="https://img.shields.io/badge/WebAssembly-Browser%20Engine-654FF0?logo=webassembly" alt="WASM"/>
+        <img src="https://img.shields.io/badge/PyO3-ES--MDA%20%26%20CMA--ES-3776AB?logo=python" alt="Python"/>
+        <img src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions" alt="CI"/>
+      </p>
+      <p>3D three-phase black-oil reservoir simulator built from first principles in Rust. It uses fully implicit Newton–Raphson with an exact Jacobian from automatic differentiation, handles saturated/undersaturated variable switching, and models Peaceman wells. Linear systems are solved with a true-IMPES CPR preconditioner (classical Ruge–Stüben AMG + ILU(0)). Results match the commercial ECLIPSE SPE1 reference to within 0.13% mean error, and 66,000-cell SPE10 subsets run 5× faster than with ILU(0). GIL-free Python bindings drive ES-MDA history matching and CMA-ES/GA NPV well-placement optimisation. The same engine compiles to WebAssembly, with a Three.js 3D viewer.</p>
+      <p align="center"><a href="https://jaynabasu.github.io/reservoir-sim-hpc/"><strong>🌐 Launch Live Reservoir Simulator (runs in your browser) →</strong></a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/JayNabasu/enterprise-rpa-financial-reconciliation">enterprise-rpa-financial-reconciliation</a></h3>
@@ -293,24 +309,27 @@ Showcasing foundational computer science implementations built from first princi
 
 ## 📌 Prioritized Showcase Repositories
 
-For technical recruiters and hiring committees reviewing [@JayNabasu](https://github.com/JayNabasu), the following repositories illustrate full-spectrum engineering depth across Enterprise, Systems, AI Infrastructure, and Cryptography:
+For technical recruiters and hiring committees reviewing [@JayNabasu](https://github.com/JayNabasu), the following repositories illustrate full-spectrum engineering depth across Enterprise, Scientific Computing, Systems, AI Infrastructure, and Cryptography:
 
-1. [**nexus-mcp-enterprise-gateway**](https://github.com/JayNabasu/nexus-mcp-enterprise-gateway) — *Model Context Protocol (MCP) Server Mesh, RBAC Policy Engine, DLP Sanitizer & OpenTelemetry Tracing.*
-2. [**vector-hnsw-search-engine**](https://github.com/JayNabasu/vector-hnsw-search-engine) — *Bare-Metal HNSW Vector Database, SIMD Distance Metrics, SQ8 Quantization & Hybrid BM25 Fusion.*
-3. [**enterprise-rpa-financial-reconciliation**](https://github.com/JayNabasu/enterprise-rpa-financial-reconciliation) — *Enterprise UiPath REFramework (C#), SAP S/4HANA OData & SDD Architecture.*
-4. [**zenith-kv-engine**](https://github.com/JayNabasu/zenith-kv-engine) — *Distributed In-Memory Database, SkipLists, WAL Durability & 3-Node Raft Consensus.*
-5. [**zk-merkle-credential-vault**](https://github.com/JayNabasu/zk-merkle-credential-vault) — *Zero-Knowledge Proofs (RFC 3526 MODP, Pedersen Commitments, CDS94 Range ZKP) & Sparse Merkle Trees.*
-6. [**flux-lang-compiler-vm**](https://github.com/JayNabasu/flux-lang-compiler-vm) — *Custom Programming Language Compiler, AST Parser, Stack Bytecode VM & In-Browser IDE.*
-7. [**neuroevolution-swarm-sandbox**](https://github.com/JayNabasu/neuroevolution-swarm-sandbox) — *NEAT Genetic Neural Networks, 3D Autonomous Swarm Intelligence & Connectome HUD.*
-8. [**energy-edw-pipeline-analytics**](https://github.com/JayNabasu/energy-edw-pipeline-analytics) — *Upstream Energy Data Warehouse, Star Schema Modeling & Joint Venture Analytics.*
+1. [**reservoir-sim-hpc**](https://github.com/JayNabasu/reservoir-sim-hpc) — *3D Black-Oil Reservoir Simulator (Rust): Fully Implicit Newton with AD Jacobian, CPR-AMG Solvers, ES-MDA History Matching, CMA-ES Optimisation & WebAssembly Viewer.*
+2. [**nexus-mcp-enterprise-gateway**](https://github.com/JayNabasu/nexus-mcp-enterprise-gateway) — *Model Context Protocol (MCP) Server Mesh, RBAC Policy Engine, DLP Sanitizer & OpenTelemetry Tracing.*
+3. [**vector-hnsw-search-engine**](https://github.com/JayNabasu/vector-hnsw-search-engine) — *Bare-Metal HNSW Vector Database, SIMD Distance Metrics, SQ8 Quantization & Hybrid BM25 Fusion.*
+4. [**enterprise-rpa-financial-reconciliation**](https://github.com/JayNabasu/enterprise-rpa-financial-reconciliation) — *Enterprise UiPath REFramework (C#), SAP S/4HANA OData & SDD Architecture.*
+5. [**zenith-kv-engine**](https://github.com/JayNabasu/zenith-kv-engine) — *Distributed In-Memory Database, SkipLists, WAL Durability & 3-Node Raft Consensus.*
+6. [**zk-merkle-credential-vault**](https://github.com/JayNabasu/zk-merkle-credential-vault) — *Zero-Knowledge Proofs (RFC 3526 MODP, Pedersen Commitments, CDS94 Range ZKP) & Sparse Merkle Trees.*
+7. [**flux-lang-compiler-vm**](https://github.com/JayNabasu/flux-lang-compiler-vm) — *Custom Programming Language Compiler, AST Parser, Stack Bytecode VM & In-Browser IDE.*
+8. [**neuroevolution-swarm-sandbox**](https://github.com/JayNabasu/neuroevolution-swarm-sandbox) — *NEAT Genetic Neural Networks, 3D Autonomous Swarm Intelligence & Connectome HUD.*
+9. [**energy-edw-pipeline-analytics**](https://github.com/JayNabasu/energy-edw-pipeline-analytics) — *Upstream Energy Data Warehouse, Star Schema Modeling & Joint Venture Analytics.*
 
 ---
 
 ## 🛠️ Technical Competencies & Skill Matrix
 
 ```text
+├── Scientific Computing    : Reservoir Simulation (Black-Oil FIM/IMPES), Automatic Differentiation, CPR & Ruge-Stüben AMG, Krylov (GMRES, BiCGSTAB)
+├── Uncertainty & Optim.    : ES-MDA Data Assimilation, Gaussian Random Fields, CMA-ES, Genetic Algorithms, NPV Economics
 ├── Agentic AI & Protocols  : Model Context Protocol (Anthropic MCP 2024-11-05), JSON-RPC 2.0, Tool Sandboxing, HITL Gates
-├── Systems & Architecture  : Distributed Raft Consensus, SkipLists, WAL Durability, Compilers & Stack VMs, AST Parsing
+├── Systems & Architecture  : Rust (PyO3, WebAssembly, Rayon), Distributed Raft Consensus, SkipLists, WAL Durability, Compilers & Stack VMs
 ├── Vector DB & Information : HNSW Proximity Graphs (Malkov & Yashunin), SQ8 Quantization, BM25 Okapi, Reciprocal Rank Fusion
 ├── Cryptography & Privacy  : Zero-Knowledge Proofs (Schnorr NIZK, CDS94 1-of-K), Pedersen Commitments, Sparse Merkle Trees, RFC 3526
 ├── Automation & RPA        : UiPath Studio (REFramework, C#, VB.NET), Power Automate, AI Builder, Copilot Studio, SAP S/4HANA
